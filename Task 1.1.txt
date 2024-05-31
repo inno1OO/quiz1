@@ -1,0 +1,7 @@
+Task 1.1
+Requirements discovery : 
+
+- User should be able to create, edit and delete a contact
+- The system should be able to check for similarity between contact and propose the user to merge them.
+- Having a way to display the label of the addresses, so the users will be able to choose between home, work and so one.
+- a User can have 0 or multiple email address
